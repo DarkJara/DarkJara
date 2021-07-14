@@ -26,7 +26,7 @@ $(document).ready(() => {
         $('#background').replaceWith('<div id="background" style="background-image: url(assets/images/mobile-background.jpg);"></div>');
         app.shouldIgnoreVideo = true;
     }
-    app.titleChanger(['DarkTeam Hacks', 'Best Hacks!', 'Cheats & Menus', 'Generator!']);
+    app.titleChanger(['DarkTeam', 'By DarkJara', 'Generator & Scripts', '<3']);
 });
 if ($.cookie('videoTime')) {
     app.videoElement.currentTime = $.cookie('videoTime');
