@@ -8,7 +8,7 @@ class _app {
     backgroundToggler = false;
     shouldIgnoreVideo = false;
     effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-    brandDescription = ['Always Best Updated and Working Cheats!', 'Join Discord Server for help!', 'Generator', 'Welcome At DarkTeam', 'Enjoy...', 'Space To Stop Video And Music', 'Gta V, Rainbow Six Siege, Fortnite', ' '];
+    brandDescription = ['Always Best Updated and Working Scripts!', 'Join Discord Server for help!', 'Generator', 'Welcome At DarkTeam', 'Enjoy...', 'Space To Stop Video And Music', 'DarkTeam On Top', ' '];
     titleChanger = (text, delay) => {
         if (!text) return;
         delay = delay || 4000;
