@@ -85,7 +85,7 @@ const writeLine = (text, speed, timeout, callback) => {
     }, timeout);
 };
 $.getJSON(ipgeolocation, (data) => {
-    writeLine(["<span style='font-size: 14px; color: #1affff;'> Website Last Update > <span style='font-size: 14px; color: #1aff1a;'>[07-08-2021]", "<span style='font-size: 14px; color: #ff0000;'>Requesting Server Access...", 'Loading...', "Access Granted to <span style='font-size: 14px; color: #ff0000;'>[DarkTeam.tk]</span>"], 30, () => {
+    writeLine(["<span style='font-size: 14px; color: #1affff;'> Website Last Update > <span style='font-size: 14px; color: #1aff1a;'>[07-23-2021]", "<span style='font-size: 14px; color: #ff0000;'>Requesting Server Access...", 'Loading...', "Access Granted to <span style='font-size: 14px; color: #ff0000;'>[DarkTeam.tk]</span>"], 30, () => {
         if (app.skippedIntro) return;
         clearCursor();
         const usernames = ['user', 'dude'];
