@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Vishal Maurya!
+Hi Im Dark, Welcome To My Profile <3
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
  <img src="(https://gpvc.arturio.dev/DarkJara)" alt="Profile views" align='right'/> <a href="https://github.com/DarkJara/"> </a> 
@@ -10,7 +10,7 @@ Hi, I'm Vishal Maurya!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Developer+of+cheats+and+Spoofers;Web+Developer;Loves+C++;DS%20|%20AI%20|%20ML%20Likes+Phonk;Learning%20lpython&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://c.tenor.com/Xu1UwcEH0oUAAAAC/juice-wlrd.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://c.tenor.com/3OvJRP_y_t8AAAAd/juice-wrld-ewaste999.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
