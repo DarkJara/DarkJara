@@ -7,7 +7,7 @@ Hi Im Dark, Welcome To My Profile <3
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Developer+of+cheats+and+Spoofers;Web+Developer;Loves+C++;DS%20|%20AI%20|%20ML%20Likes+Phonk;Learning%20lpython&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Developer+of+cheats+and+Spoofers;Web+Developer;Loves+C++;Likes+Phonk;Learning%20python&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://c.tenor.com/3OvJRP_y_t8AAAAd/juice-wrld-ewaste999.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
