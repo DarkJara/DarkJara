@@ -2,12 +2,12 @@
 Hi Im Dark, Welcome To My Profile <3
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="(https://gpvc.arturio.dev/DarkJara)" alt="Profile views" align='right'/> <a href="https://github.com/DarkJara/"> </a> 
+ <img src="(https://gpvc.arturio.dev/DarkJara)" alt="Profile views" align='right'/> <a href="[https://github.com/DarkJara/](https://gpvc.arturio.dev/DarkJara)"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Developer+of+cheats+and+Spoofers;Web+Developer;Loves+C++;Likes+Phonk;Learning%20python&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Developer+of+cheats+and+Spoofers;Web+Developer;Loves+C··;Likes+Phonk;Learning%20python&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://c.tenor.com/3OvJRP_y_t8AAAAd/juice-wrld-ewaste999.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
