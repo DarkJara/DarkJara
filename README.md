@@ -13,18 +13,7 @@ Hi Im Dark, Welcome To My Profile <3
 <img align="left" src="https://c.tenor.com/3OvJRP_y_t8AAAAd/juice-wrld-ewaste999.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
-```
-Hi Thanks For Reading This
--------------------------
-💻 Iam a self taught C++, C#, Web Developer.
-🏴 Iam From Czech Republic.
-📝 I have a strong interest in Developing.
-🔭 Working On Cheats And Spoofers.
-🌱 Learning about 100% Undetected Aimbot With YoloV5 ( Any Game )
-🌟 Main languages: C++, C#
-🚩 Interested in Cheat Developement.
-🎵 I Love Phonk, Lofi
-```
+
 <hr>
 
 ## GitHub Stats
